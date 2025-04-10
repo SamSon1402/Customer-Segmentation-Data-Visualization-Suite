@@ -1,4 +1,4 @@
-# PropTech-8Bit Analytics Dashboard
+# Customer Segmentation & Data Visualization Suite Analytics Dashboard
 
 ![image](https://github.com/user-attachments/assets/afd0bde1-cfbd-4f88-87b7-7edc5326b473)
 ![image](https://github.com/user-attachments/assets/cca5150b-8921-4d42-9832-a40869fa96c9)
@@ -15,7 +15,7 @@
 
 ## What is this?
 
-PropTech-8Bit is a property technology dashboard with a fun retro gaming design. It helps property managers and executives see important information about their buildings, tenants, and business performance at a glance.
+Customer Segmentation & Data Visualization Suite is a property technology dashboard with a fun retro gaming design. It helps property managers and executives see important information about their buildings, tenants, and business performance at a glance.
 
 ## What does it do?
 
@@ -51,7 +51,7 @@ While many property companies still use outdated tools, this dashboard puts mode
 
 ## Getting Started
 
-To start using the PropTech-8Bit dashboard:
+To start using the Customer Segmentation & Data Visualization Suite dashboard:
 
 1. Ask IT to install the application on your computer
 2. Log in with your company credentials
